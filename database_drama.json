@@ -1,0 +1,867 @@
+{
+    "722": {
+        "title": "Bunga Mekar dari Air Mata (Sulih Suara)",
+        "eps": 60,
+        "cover": "file:///sdcard/Download/logos/722.jpg"
+    },
+    "277": {
+        "title": "Bayangmu yang Hilang (Sulih Suara)",
+        "eps": 71,
+        "cover": "file:///sdcard/Download/logos/277.jpg"
+    },
+    "107468": {
+        "title": "Bangkit dan Berkuasa (Sulih Suara)",
+        "eps": 90,
+        "cover": "file:///sdcard/Download/logos/107468.jpg"
+    },
+    "3108": {
+        "title": "Bukan Lagi Milikmu (Sulih Suara)",
+        "eps": 86,
+        "cover": "file:///sdcard/Download/logos/3108.jpg"
+    },
+    "74034945": {
+        "title": "Bangkit dengan Kekuatan Spektakuler",
+        "eps": 100,
+        "cover": "file:///sdcard/Download/logos/74034945.jpg"
+    },
+    "105691": {
+        "title": "Balasan Dendam Bertopeng: Atas Nama Adikku",
+        "eps": 60,
+        "cover": "file:///sdcard/Download/logos/105691.jpg"
+    },
+    "118941": {
+        "title": "Balas Budi Selesai, Saatnya Terbang Tinggi",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/118941.jpg"
+    },
+    "123124": {
+        "title": "Balas Dendam yang Melenceng",
+        "eps": 69,
+        "cover": "file:///sdcard/Download/logos/123124.jpg"
+    },
+    "120185": {
+        "title": "Balas Budi Sang Penjaga",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/120185.jpg"
+    },
+    "117132": {
+        "title": "Balas Budi Putra Angkat",
+        "eps": 74,
+        "cover": "file:///sdcard/Download/logos/117132.jpg"
+    },
+    "2923": {
+        "title": "Balas Dendam Sang Ratu",
+        "eps": 66,
+        "cover": "file:///sdcard/Download/logos/2923.jpg"
+    },
+    "119253": {
+        "title": "Bereinkarnasi Memilih Suami Sejati",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/119253.jpg"
+    },
+    "114233": {
+        "title": "Antara Patuh dan Memberontak (Sulih Suara)",
+        "eps": 88,
+        "cover": "file:///sdcard/Download/logos/114233.jpg"
+    },
+    "109441": {
+        "title": "Kemakmuran Tidak Terduga (Sulih Suara)",
+        "eps": 90,
+        "cover": "file:///sdcard/Download/logos/109441.jpg"
+    },
+    "111481": {
+        "title": "Kekuatan Ibu Kesayangan (Sulih Suara)",
+        "eps": 100,
+        "cover": "file:///sdcard/Download/logos/111481.jpg"
+    },
+    "105732": {
+        "title": "Cinta di Luar Kesepakatan (Sulih Suara\uff09",
+        "eps": 90,
+        "cover": "file:///sdcard/Download/logos/105732.jpg"
+    },
+    "108991": {
+        "title": "Perjuangan Gadis Miskin Meraih Sukses (Sulih Suara)",
+        "eps": 80,
+        "cover": "file:///sdcard/Download/logos/108991.jpg"
+    },
+    "106784": {
+        "title": "Kembalinya Sang Ahli Waris (Sulih Suara)",
+        "eps": 76,
+        "cover": "file:///sdcard/Download/logos/106784.jpg"
+    },
+    "108535": {
+        "title": "Sang Penguasa yang Bangkit (Sulih Suara)",
+        "eps": 98,
+        "cover": "file:///sdcard/Download/logos/108535.jpg"
+    },
+    "105821": {
+        "title": "Mengharumkan Nama Kampung Halaman (Sulih Suara)",
+        "eps": 89,
+        "cover": "file:///sdcard/Download/logos/105821.jpg"
+    },
+    "108364": {
+        "title": "Kembalinya Sang Putra Pewaris (Sulih Suara)",
+        "eps": 96,
+        "cover": "file:///sdcard/Download/logos/108364.jpg"
+    },
+    "4032": {
+        "title": "Akhir Pencarian Sang Pewaris (Sulih Suara)",
+        "eps": 55,
+        "cover": "file:///sdcard/Download/logos/4032.jpg"
+    },
+    "106294": {
+        "title": "Membangun Cinta di Era 80-an (Sulih Suara)",
+        "eps": 82,
+        "cover": "file:///sdcard/Download/logos/106294.jpg"
+    },
+    "114781": {
+        "title": "Harus Sharehouse (Sulih Suara)",
+        "eps": 47,
+        "cover": "file:///sdcard/Download/logos/114781.jpg"
+    },
+    "110499": {
+        "title": "Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",
+        "eps": 61,
+        "cover": "file:///sdcard/Download/logos/110499.jpg"
+    },
+    "3762": {
+        "title": "Guru Surgawi Penakluk Dunia (Sulih Suara)",
+        "eps": 87,
+        "cover": "file:///sdcard/Download/logos/3762.jpg"
+    },
+    "104882": {
+        "title": "Gadis Lugu Penakluk Raja Mafia",
+        "eps": 61,
+        "cover": "file:///sdcard/Download/logos/104882.jpg"
+    },
+    "115601": {
+        "title": "Geram Cinta Sang Raja Alpha",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/115601.jpg"
+    },
+    "75126017": {
+        "title": "Gak Sengaja Salah Masuk Kamar",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/75126017.jpg"
+    },
+    "107073": {
+        "title": "Cinta Tanpa Syarat Sang Ayah (Sulih Suara)",
+        "eps": 81,
+        "cover": "file:///sdcard/Download/logos/107073.jpg"
+    },
+    "109876": {
+        "title": "Pak Ogi, Istrimu Bukan Itu (Sulih Suara)",
+        "eps": 103,
+        "cover": "file:///sdcard/Download/logos/109876.jpg"
+    },
+    "106419": {
+        "title": "Singgasana Bayangan (Sulih Suara)",
+        "eps": 142,
+        "cover": "file:///sdcard/Download/logos/106419.jpg"
+    },
+    "105986": {
+        "title": "Cinta Orang Tua yang Jauh (Sulih Suara)",
+        "eps": 91,
+        "cover": "file:///sdcard/Download/logos/105986.jpg"
+    },
+    "119832": {
+        "title": "Atas Nama Sang Ibu (Sulih Suara)",
+        "eps": 35,
+        "cover": "file:///sdcard/Download/logos/119832.jpg"
+    },
+    "115837": {
+        "title": "Anak Pembawa Rezeki Datang (Sulih Suara)",
+        "eps": 80,
+        "cover": "file:///sdcard/Download/logos/115837.jpg"
+    },
+    "2804": {
+        "title": "Awas\uff01Sang Naga Kembali (Sulih Suara)",
+        "eps": 80,
+        "cover": "https://img.dramaboxdb.com/drama/2804/cover.jpg"
+    },
+    "2601": {
+        "title": "Akhirnya, Aku Benaran Kehilanganmu (Sulih Suara)",
+        "eps": 88,
+        "cover": "file:///sdcard/Download/logos/2601.jpg"
+    },
+    "4476": {
+        "title": "Ayahku Bukan Kurir Biasa",
+        "eps": 99,
+        "cover": "file:///sdcard/Download/logos/4476.jpg"
+    },
+    "70433793": {
+        "title": "Air Mata Istri Selingkuh",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/70433793.jpg"
+    },
+    "3449": {
+        "title": "Ibuku Belum Mati!",
+        "eps": 61,
+        "cover": "file:///sdcard/Download/logos/3449.jpg"
+    },
+    "113539": {
+        "title": "Istriku Jatuh dari Langit",
+        "eps": 53,
+        "cover": "file:///sdcard/Download/logos/113539.jpg"
+    },
+    "113293": {
+        "title": "Istriku, Jangan Kabur Lagi!",
+        "eps": 101,
+        "cover": "file:///sdcard/Download/logos/113293.jpg"
+    },
+    "112714": {
+        "title": "Istriku Tercinta yang Hebat",
+        "eps": 57,
+        "cover": "file:///sdcard/Download/logos/112714.jpg"
+    },
+    "1143": {
+        "title": "Istriku, Aku Memang Dewa",
+        "eps": 88,
+        "cover": "file:///sdcard/Download/logos/1143.jpg"
+    },
+    "2858": {
+        "title": "Istriku Mengerikan Sekali",
+        "eps": 70,
+        "cover": "file:///sdcard/Download/logos/2858.jpg"
+    },
+    "105488": {
+        "title": "Istri yang Tidak Tergantikan",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/105488.jpg"
+    },
+    "3024": {
+        "title": "Istri Lemah Sang Panglima",
+        "eps": 85,
+        "cover": "file:///sdcard/Download/logos/3024.jpg"
+    },
+    "122844": {
+        "title": "Istri yang Dimanjakan",
+        "eps": 65,
+        "cover": "file:///sdcard/Download/logos/122844.jpg"
+    },
+    "36": {
+        "title": "Istriku Punya Kekuatan Super",
+        "eps": 70,
+        "cover": "file:///sdcard/Download/logos/36.jpg"
+    },
+    "119793": {
+        "title": "Istriku Tiga, Takdirku Gila",
+        "eps": 74,
+        "cover": "file:///sdcard/Download/logos/119793.jpg"
+    },
+    "117996": {
+        "title": "I Kissed A CEO And He Liked It",
+        "eps": 53,
+        "cover": "file:///sdcard/Download/logos/117996.jpg"
+    },
+    "91": {
+        "title": "Free My Heart, Mr. CEO",
+        "eps": 56,
+        "cover": "file:///sdcard/Download/logos/91.jpg"
+    },
+    "103053": {
+        "title": "My Flash Romance With the CEO",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/103053.jpg"
+    },
+    "103437": {
+        "title": "CEO\u2019s Substitute Wife",
+        "eps": 60,
+        "cover": "file:///sdcard/Download/logos/103437.jpg"
+    },
+    "3970": {
+        "title": "Ultimatum Sang Raja Mafia",
+        "eps": 54,
+        "cover": "file:///sdcard/Download/logos/3970.jpg"
+    },
+    "254": {
+        "title": "Cinta Sang Mafia",
+        "eps": 80,
+        "cover": "file:///sdcard/Download/logos/254.jpg"
+    },
+    "1866": {
+        "title": "Jangan Bilang Kakakku Kau Pacarku (Sulih Suara)",
+        "eps": 51,
+        "cover": "file:///sdcard/Download/logos/1866.jpg"
+    },
+    "119794": {
+        "title": "Kebangkitan dari Api Dendam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/119794.jpg"
+    },
+    "118865": {
+        "title": "Manisnya Dendam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/118865.jpg"
+    },
+    "2605": {
+        "title": "Hatiku Diretas Virus Cintamu (Sulih Suara)",
+        "eps": 53,
+        "cover": "file:///sdcard/Download/logos/2605.jpg"
+    },
+    "1974": {
+        "title": "Hidup Baru dari Luka Lama (Sulih Suara)",
+        "eps": 70,
+        "cover": "file:///sdcard/Download/logos/1974.jpg"
+    },
+    "107538": {
+        "title": "Hati Terjebak di Pernikahan Kilat",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/107538.jpg"
+    },
+    "106122": {
+        "title": "Kebangkitan Jiwa (Sulih Suara)",
+        "eps": 87,
+        "cover": "file:///sdcard/Download/logos/106122.jpg"
+    },
+    "2807": {
+        "title": "Ciumanmu Mengubah Duniaku (Sulih Suara)",
+        "eps": 53,
+        "cover": "file:///sdcard/Download/logos/2807.jpg"
+    },
+    "3782": {
+        "title": "Cerita Cinta Cheerleader Cantik (Sulih Suara)",
+        "eps": 57,
+        "cover": "file:///sdcard/Download/logos/3782.jpg"
+    },
+    "3974": {
+        "title": "Cukup Sekali Ucapkan Selamat Tinggal  (Sulih Suara)",
+        "eps": 71,
+        "cover": "file:///sdcard/Download/logos/3974.jpg"
+    },
+    "3982": {
+        "title": "Cinta yang Kembali Menemukanku  (Sulih Suara)",
+        "eps": 64,
+        "cover": "file:///sdcard/Download/logos/3982.jpg"
+    },
+    "14320385": {
+        "title": "Cinta dari Pernikahan Politik",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/14320385.jpg"
+    },
+    "118516": {
+        "title": "Cinta di Balik Pernikahan Kontrak",
+        "eps": 80,
+        "cover": "file:///sdcard/Download/logos/118516.jpg"
+    },
+    "105854": {
+        "title": "CEO\u3068\u30b9\u30d4\u30fc\u30c9\u7d50\u5a5a\u3057\u305f\u4ef6",
+        "eps": 83,
+        "cover": "file:///sdcard/Download/logos/105854.jpg"
+    },
+    "120531": {
+        "title": "Cinta dan Dominasi",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/120531.jpg"
+    },
+    "118503": {
+        "title": "Cinta yang Menikam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/118503.jpg"
+    },
+    "112971": {
+        "title": "Cinta Tak Sampaiku",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/112971.jpg"
+    },
+    "1851": {
+        "title": "Jodohku Manusia Serigala (Sulih Suara)",
+        "eps": 65,
+        "cover": "file:///sdcard/Download/logos/1851.jpg"
+    },
+    "115361": {
+        "title": "Jejak Langkah di Ujung Usia (Sulih Suara)",
+        "eps": 64,
+        "cover": "file:///sdcard/Download/logos/115361.jpg"
+    },
+    "120920": {
+        "title": "Jenderal, Istrimu Kabur Lagi! (Sulih Suara)",
+        "eps": 82,
+        "cover": "file:///sdcard/Download/logos/120920.jpg"
+    },
+    "999": {
+        "title": "Jangan Tangisi Kepergianku (Sulih Suara)",
+        "eps": 75,
+        "cover": "file:///sdcard/Download/logos/999.jpg"
+    },
+    "68245761": {
+        "title": "Janji Nikah dalam Lupa",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/68245761.jpg"
+    },
+    "68545537": {
+        "title": "Janda dan Dua Suami",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/68545537.jpg"
+    },
+    "2888": {
+        "title": "Dewa Judi (Sulih Suara)",
+        "eps": 74,
+        "cover": "file:///sdcard/Download/logos/2888.jpg"
+    },
+    "3937": {
+        "title": "Putra Sah yang Kejam",
+        "eps": 84,
+        "cover": "file:///sdcard/Download/logos/3937.jpg"
+    },
+    "88244994": {
+        "title": "Pengawalku Prajurit Legendaris",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/88244994.jpg"
+    },
+    "54329090": {
+        "title": "(Sulih suara) Misi Rahasia: Turnamen Dewa Judi",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/54329090.jpg"
+    },
+    "64717057": {
+        "title": "Takkan Rujuk dan Nikahi Orang Lain",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/64717057.jpg"
+    },
+    "4598": {
+        "title": "Dulu Diremehkan, Kini Berjaya",
+        "eps": 100,
+        "cover": "file:///sdcard/Download/logos/4598.jpg"
+    },
+    "90542082": {
+        "title": "Dia yang Tak Sempurna",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/90542082.jpg"
+    },
+    "118437": {
+        "title": "Dendam Ratu Alpha yang Ditolak",
+        "eps": 54,
+        "cover": "file:///sdcard/Download/logos/118437.jpg"
+    },
+    "3388": {
+        "title": "Dendam Pewaris yang Terbuang",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/3388.jpg"
+    },
+    "117547": {
+        "title": "Dendam dan Cinta Sang Alpha",
+        "eps": 58,
+        "cover": "file:///sdcard/Download/logos/117547.jpg"
+    },
+    "117164": {
+        "title": "Dendam Hati yang Tersakiti",
+        "eps": 51,
+        "cover": "file:///sdcard/Download/logos/117164.jpg"
+    },
+    "226": {
+        "title": "Demi Balas Budi",
+        "eps": 62,
+        "cover": "file:///sdcard/Download/logos/226.jpg"
+    },
+    "1113": {
+        "title": "Digantikan, Lalu Menikah Mendadak",
+        "eps": 62,
+        "cover": "file:///sdcard/Download/logos/1113.jpg"
+    },
+    "106105": {
+        "title": "Dari Nikah Kontrak Jadi Istri Miliarder",
+        "eps": 76,
+        "cover": "file:///sdcard/Download/logos/106105.jpg"
+    },
+    "117905": {
+        "title": "Dijebak ke Dekapan CEO",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/117905.jpg"
+    },
+    "981": {
+        "title": "Dendam Hati yang Tersakiti (Sulih Suara)",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/981.jpg"
+    },
+    "111056": {
+        "title": "Kaisar Pekerja (Sulih Suara)",
+        "eps": 100,
+        "cover": "file:///sdcard/Download/logos/111056.jpg"
+    },
+    "724": {
+        "title": "Kau Bukan Siapa-siapa Bagiku (Sulih Suara)",
+        "eps": 64,
+        "cover": "file:///sdcard/Download/logos/724.jpg"
+    },
+    "112448": {
+        "title": "Kaisar Pulang ke Desa (Sulih Suara)",
+        "eps": 63,
+        "cover": "file:///sdcard/Download/logos/112448.jpg"
+    },
+    "2890": {
+        "title": "Kembalinya Sang Petinju (Sulih Suara)",
+        "eps": 72,
+        "cover": "file:///sdcard/Download/logos/2890.jpg"
+    },
+    "2976": {
+        "title": "Kupasrahkan Diriku Pada Cintamu (Sulih Suara)",
+        "eps": 54,
+        "cover": "file:///sdcard/Download/logos/2976.jpg"
+    },
+    "1023": {
+        "title": "Kala Penyesalan Mengetuk Hati (Sulih Suara)",
+        "eps": 74,
+        "cover": "file:///sdcard/Download/logos/1023.jpg"
+    },
+    "3393": {
+        "title": "Kehidupan dalam Kenangan (Sulih Suara)",
+        "eps": 73,
+        "cover": "file:///sdcard/Download/logos/3393.jpg"
+    },
+    "107219": {
+        "title": "Legenda Tak Terkalahkan (Sulih Suara)",
+        "eps": 94,
+        "cover": "file:///sdcard/Download/logos/107219.jpg"
+    },
+    "64728322": {
+        "title": "Lika-Liku Sang Raja Masak",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/64728322.jpg"
+    },
+    "73188865": {
+        "title": "LUKA CINTA",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/73188865.jpg"
+    },
+    "36440833": {
+        "title": "Laporan Pembawa Cinta",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/36440833.jpg"
+    },
+    "3935": {
+        "title": "Napas Terakhir",
+        "eps": 70,
+        "cover": "file:///sdcard/Download/logos/3935.jpg"
+    },
+    "3830017": {
+        "title": "Naluri Harta",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/3830017.jpg"
+    },
+    "88450561": {
+        "title": "Nikah Kilat Demi Dendam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/88450561.jpg"
+    },
+    "112204": {
+        "title": "Mawar di Medan Perang (Sulih Suara)",
+        "eps": 91,
+        "cover": "file:///sdcard/Download/logos/112204.jpg"
+    },
+    "3435": {
+        "title": "Menelusuri Jejak Cinta (Sulih Suara)",
+        "eps": 57,
+        "cover": "file:///sdcard/Download/logos/3435.jpg"
+    },
+    "107941": {
+        "title": "Menantu yang Menggemparkan Desa (Sulih Suara)",
+        "eps": 120,
+        "cover": "file:///sdcard/Download/logos/107941.jpg"
+    },
+    "120827": {
+        "title": "Melodi Takdir: Anak dan Cinta (Sulih Suara)",
+        "eps": 74,
+        "cover": "file:///sdcard/Download/logos/120827.jpg"
+    },
+    "4169": {
+        "title": "Mau Cari Uang, Malah Bermasalah",
+        "eps": 70,
+        "cover": "file:///sdcard/Download/logos/4169.jpg"
+    },
+    "122845": {
+        "title": "Menikahi Dosenku",
+        "eps": 85,
+        "cover": "file:///sdcard/Download/logos/122845.jpg"
+    },
+    "109843": {
+        "title": "Mantan Istriku Jadi CEO",
+        "eps": 59,
+        "cover": "file:///sdcard/Download/logos/109843.jpg"
+    },
+    "71381762": {
+        "title": "Model itu Ternyata CEO",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/71381762.jpg"
+    },
+    "117593": {
+        "title": "Ops, Suami Kilatku Ternyata CEO",
+        "eps": 100,
+        "cover": "file:///sdcard/Download/logos/117593.jpg"
+    },
+    "116646": {
+        "title": "Cermin Dosa (Sulih Suara)",
+        "eps": 48,
+        "cover": "file:///sdcard/Download/logos/116646.jpg"
+    },
+    "113749": {
+        "title": "Rahasia di Balik Orang Tua Sederhana (Sulih Suara)",
+        "eps": 89,
+        "cover": "file:///sdcard/Download/logos/113749.jpg"
+    },
+    "116894": {
+        "title": "Pergi Tanpa Menoleh (Sulih Suara)",
+        "eps": 84,
+        "cover": "file:///sdcard/Download/logos/116894.jpg"
+    },
+    "1330": {
+        "title": "Reinkarnasi Pilot Jagoan (Sulih Suara)",
+        "eps": 58,
+        "cover": "file:///sdcard/Download/logos/1330.jpg"
+    },
+    "4079": {
+        "title": "Takdir di Balik Perjodohan",
+        "eps": 79,
+        "cover": "file:///sdcard/Download/logos/4079.jpg"
+    },
+    "55962114": {
+        "title": "Bosku, Ibu Tiriku?",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/55962114.jpg"
+    },
+    "107772": {
+        "title": "Pengembara Pulang ke Rumah (Sulih Suara)",
+        "eps": 88,
+        "cover": "file:///sdcard/Download/logos/107772.jpg"
+    },
+    "929": {
+        "title": "Pesan Terakhirku di Surat Ketigaku (Sulih Suara)",
+        "eps": 62,
+        "cover": "file:///sdcard/Download/logos/929.jpg"
+    },
+    "110318": {
+        "title": "Presdir Cantikku (Sulih Suara)",
+        "eps": 93,
+        "cover": "file:///sdcard/Download/logos/110318.jpg"
+    },
+    "42142210": {
+        "title": "Pengakuan Cinta yang Membara",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/42142210.jpg"
+    },
+    "77463809": {
+        "title": "Penjagaannya Tulus",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/77463809.jpg"
+    },
+    "109503": {
+        "title": "Pembalasan Dendam Sang Istri",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/109503.jpg"
+    },
+    "104310": {
+        "title": "Pembalasan Sang Putri Angkat",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/104310.jpg"
+    },
+    "101419": {
+        "title": "Pernikahan Balas Dendam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/101419.jpg"
+    },
+    "119901": {
+        "title": "Raja Puncak",
+        "eps": 75,
+        "cover": "file:///sdcard/Download/logos/119901.jpg"
+    },
+    "112488": {
+        "title": "Raja Kecurangan",
+        "eps": 75,
+        "cover": "file:///sdcard/Download/logos/112488.jpg"
+    },
+    "2147": {
+        "title": "Raja Tanpa Mahkota",
+        "eps": 76,
+        "cover": "file:///sdcard/Download/logos/2147.jpg"
+    },
+    "116351": {
+        "title": "Raja Kecurangan (Sulih Suara)",
+        "eps": 75,
+        "cover": "file:///sdcard/Download/logos/116351.jpg"
+    },
+    "3547": {
+        "title": "Raja Tanpa Mahkota (Sulih Suara)",
+        "eps": 76,
+        "cover": "file:///sdcard/Download/logos/3547.jpg"
+    },
+    "52560898": {
+        "title": "Rahasia Istri Manisku",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/52560898.jpg"
+    },
+    "45905921": {
+        "title": "Reinkarnasi Raja Koki",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/45905921.jpg"
+    },
+    "121121": {
+        "title": "Sang Pendiri Kekaisaran (Sulih Suara)",
+        "eps": 80,
+        "cover": "file:///sdcard/Download/logos/121121.jpg"
+    },
+    "111478": {
+        "title": "Sembuhkan Papa, Bawa Keberuntungan (Sulih Suara)",
+        "eps": 75,
+        "cover": "file:///sdcard/Download/logos/111478.jpg"
+    },
+    "4212": {
+        "title": "Saat Kau Pergi, Aku Baru Tahu (Sulih Suara)",
+        "eps": 96,
+        "cover": "file:///sdcard/Download/logos/4212.jpg"
+    },
+    "4216": {
+        "title": "Sang Tuan Muda Penyamar (Sulih Suara)",
+        "eps": 70,
+        "cover": "file:///sdcard/Download/logos/4216.jpg"
+    },
+    "117910": {
+        "title": "Skor Sempurna, Balas Dendam Sempurna",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/117910.jpg"
+    },
+    "105857": {
+        "title": "Sejuta Rahasia Sang Suami",
+        "eps": 60,
+        "cover": "file:///sdcard/Download/logos/105857.jpg"
+    },
+    "114839": {
+        "title": "Suami Kontrak, Cinta Tanpa Syarat",
+        "eps": 80,
+        "cover": "file:///sdcard/Download/logos/114839.jpg"
+    },
+    "108836": {
+        "title": "Suami Miskinku Ternyata Seorang Miliarder",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/108836.jpg"
+    },
+    "101683": {
+        "title": "Suami Pernikahan Kilat: Keluarga Kaya",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/101683.jpg"
+    },
+    "35": {
+        "title": "Suamiku Ternyata Kakak Sahabatku",
+        "eps": 74,
+        "cover": "file:///sdcard/Download/logos/35.jpg"
+    },
+    "4210": {
+        "title": "Takdir yang Direbut Kembali (Sulih Suara)",
+        "eps": 80,
+        "cover": "file:///sdcard/Download/logos/4210.jpg"
+    },
+    "1936": {
+        "title": "Tantangan Cinta dalam Ingatan Baru (Sulih Suara)",
+        "eps": 49,
+        "cover": "file:///sdcard/Download/logos/1936.jpg"
+    },
+    "4594": {
+        "title": "Tiada Lagi Cintaku Bagimu",
+        "eps": 50,
+        "cover": "file:///sdcard/Download/logos/4594.jpg"
+    },
+    "34675458": {
+        "title": "Takdir Kasih Kejutan",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/34675458.jpg"
+    },
+    "78152706": {
+        "title": "Takdirku ditentukan sendiri",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/78152706.jpg"
+    },
+    "117204": {
+        "title": "The CEO",
+        "eps": 60,
+        "cover": "file:///sdcard/Download/logos/117204.jpg"
+    },
+    "3936": {
+        "title": "Tujuh Kakak, Satu Raja",
+        "eps": 75,
+        "cover": "file:///sdcard/Download/logos/3936.jpg"
+    },
+    "14473985": {
+        "title": "Taktik Balas Dendam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/14473985.jpg"
+    },
+    "17415169": {
+        "title": "Terpaksa Nikah demi Kebenaran",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/17415169.jpg"
+    },
+    "11267074": {
+        "title": "Tabib Dewa & CEO Ganteng",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/11267074.jpg"
+    },
+    "115406": {
+        "title": "Kultivator Hebat Balas Dendam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/115406.jpg"
+    },
+    "32418561": {
+        "title": "Kultivator Terkuat",
+        "eps": 0,
+        "cover": "https://img.dramaboxdb.com/drama/32418561/cover.jpg"
+    },
+    "1664": {
+        "title": "Permainan Balas Dendam",
+        "eps": 70,
+        "cover": "file:///sdcard/Download/logos/1664.jpg"
+    },
+    "103119": {
+        "title": "Perwira Ganteng Ngebet Nikah",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/103119.jpg"
+    },
+    "93225730": {
+        "title": "Warisan dan Dendam",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/93225730.jpg"
+    },
+    "23010305": {
+        "title": "(Sulih suara)Kembalinya Phoenix",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/23010305.jpg"
+    },
+    "111771": {
+        "title": "Pesona Istri Manis Sang CEO",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/111771.jpg"
+    },
+    "105131": {
+        "title": "Cinta yang Tertunda",
+        "eps": 105,
+        "cover": "file:///sdcard/Download/logos/105131.jpg"
+    },
+    "113177": {
+        "title": "Pesona Istri Manis Sang CEO (Sulih Suara)",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/113177.jpg"
+    },
+    "121813": {
+        "title": "Pernikahan Palsu, Cinta Nyata",
+        "eps": 81,
+        "cover": "file:///sdcard/Download/logos/121813.jpg"
+    },
+    "107146": {
+        "title": "Si Raja Kuat",
+        "eps": 77,
+        "cover": "file:///sdcard/Download/logos/107146.jpg"
+    },
+    "116907": {
+        "title": "Cinta di Atas Luka",
+        "eps": 61,
+        "cover": "file:///sdcard/Download/logos/116907.jpg"
+    },
+    "101012": {
+        "title": "Suami Pernikahan Kilat: Keluarga Kaya (Sulih Suara)",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/101012.jpg"
+    },
+    "84945921": {
+        "title": "Suami Tahun 80anku",
+        "eps": 0,
+        "cover": "file:///sdcard/Download/logos/84945921.jpg"
+    }
+}
